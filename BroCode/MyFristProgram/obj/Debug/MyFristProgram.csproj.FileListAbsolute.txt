@@ -1,0 +1,7 @@
+C:\All-Projects\C-Sharp-Work\BroCode\MyFristProgram\bin\Debug\MyFristProgram.exe.config
+C:\All-Projects\C-Sharp-Work\BroCode\MyFristProgram\bin\Debug\MyFristProgram.exe
+C:\All-Projects\C-Sharp-Work\BroCode\MyFristProgram\bin\Debug\MyFristProgram.pdb
+C:\All-Projects\C-Sharp-Work\BroCode\MyFristProgram\obj\Debug\MyFristProgram.csproj.AssemblyReference.cache
+C:\All-Projects\C-Sharp-Work\BroCode\MyFristProgram\obj\Debug\MyFristProgram.csproj.CoreCompileInputs.cache
+C:\All-Projects\C-Sharp-Work\BroCode\MyFristProgram\obj\Debug\MyFristProgram.exe
+C:\All-Projects\C-Sharp-Work\BroCode\MyFristProgram\obj\Debug\MyFristProgram.pdb
