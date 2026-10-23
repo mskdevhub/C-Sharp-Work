@@ -1,0 +1,7 @@
+C:\All-Projects\C-Sharp-Work\BroCode\TypeCastingAndUserInput\bin\Debug\TypeCastingAndUserInput.exe.config
+C:\All-Projects\C-Sharp-Work\BroCode\TypeCastingAndUserInput\bin\Debug\TypeCastingAndUserInput.exe
+C:\All-Projects\C-Sharp-Work\BroCode\TypeCastingAndUserInput\bin\Debug\TypeCastingAndUserInput.pdb
+C:\All-Projects\C-Sharp-Work\BroCode\TypeCastingAndUserInput\obj\Debug\TypeCastingAndUserInput.csproj.AssemblyReference.cache
+C:\All-Projects\C-Sharp-Work\BroCode\TypeCastingAndUserInput\obj\Debug\TypeCastingAndUserInput.csproj.CoreCompileInputs.cache
+C:\All-Projects\C-Sharp-Work\BroCode\TypeCastingAndUserInput\obj\Debug\TypeCastingAndUserInput.exe
+C:\All-Projects\C-Sharp-Work\BroCode\TypeCastingAndUserInput\obj\Debug\TypeCastingAndUserInput.pdb
