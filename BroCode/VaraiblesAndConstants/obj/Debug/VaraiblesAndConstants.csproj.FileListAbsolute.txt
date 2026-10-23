@@ -1,0 +1,7 @@
+C:\All-Projects\C-Sharp-Work\BroCode\VaraiblesAndConstants\bin\Debug\VaraiblesAndConstants.exe.config
+C:\All-Projects\C-Sharp-Work\BroCode\VaraiblesAndConstants\bin\Debug\VaraiblesAndConstants.exe
+C:\All-Projects\C-Sharp-Work\BroCode\VaraiblesAndConstants\bin\Debug\VaraiblesAndConstants.pdb
+C:\All-Projects\C-Sharp-Work\BroCode\VaraiblesAndConstants\obj\Debug\VaraiblesAndConstants.csproj.AssemblyReference.cache
+C:\All-Projects\C-Sharp-Work\BroCode\VaraiblesAndConstants\obj\Debug\VaraiblesAndConstants.csproj.CoreCompileInputs.cache
+C:\All-Projects\C-Sharp-Work\BroCode\VaraiblesAndConstants\obj\Debug\VaraiblesAndConstants.exe
+C:\All-Projects\C-Sharp-Work\BroCode\VaraiblesAndConstants\obj\Debug\VaraiblesAndConstants.pdb
